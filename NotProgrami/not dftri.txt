@@ -1,0 +1,20 @@
++firma silerken notlara baksın varsa ofirma silemesin 
+-BLUETUT KULAKLIK DOLDUĞUNU NASIL ANLARIZ
+-CANİAS TEMA BUL MAVİLİ HANİ HİBSANDA MEVCUT al tümüne uygula girişelere
++eklemede tarihler nul yada eksik yada default tarih gelcek sorun yok yinede kontrol et vs..
+
++firma adı güncellerken nottada arama temizlesin
++textfieldlere krkter kontrolü eklensin 
++teslim tarihi enableolsun bitti tikleyince aktif olsun kaldırınca pasife dönsün ama bunu listeden seçince yapsın
++aratıldımı detay temizlensin
++hatırlatma not tipi eklencek
+-yedek alma öğrenilcek
+-setup yapma öğrenilcek
+-diğer psye sql ve arayüzü yükelncek
++aratılmada min ve bugün butonları eklencek 
++aratılma tarihlerinde saatsiz min max ve şimdiki zamnalr yer alcak 
+
+
+
+
+
